@@ -122,7 +122,6 @@ public class SortAlgorithm {
 			i++;
 			k++;
 		}
-
 		return arr;
 	}
 

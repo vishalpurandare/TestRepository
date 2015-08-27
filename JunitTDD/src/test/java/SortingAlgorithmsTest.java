@@ -1,8 +1,9 @@
-package org.vip.test;
+package test.java;
+
+import main.java.SortAlgorithm;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.vip.main.SortAlgorithm;
 
 public class SortingAlgorithmsTest {
 

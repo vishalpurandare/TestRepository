@@ -1,4 +1,4 @@
-package org.vip.main;
+package main.java;
 
 
 

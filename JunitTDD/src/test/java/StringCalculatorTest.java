@@ -1,8 +1,9 @@
-package org.vip.test;
+package test.java;
+
+import main.java.StringCalculator;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.vip.main.StringCalculator;
 
 public class StringCalculatorTest {
 
